@@ -23,6 +23,7 @@ The transformation process can be break down into four steps:
 
 ## 4. Color correction and final output
 
-<table><tr><td colspan=2><img src="./generated/final_Andrea_V.jpg" alt="final face sample 1" style="height: 320px;"/></td></tr></table>
+<table><tr><td><td><img src="./generated/debug2_Andrea_V.jpg" alt="color corrected sample 2" style="height: 320px;"/></td>
+<td><img src="./generated/final_Andrea_V.jpg" alt="final face sample 1" style="height: 320px;"/></td></tr></table>
 
 Further instructions can be found in the notebook.
